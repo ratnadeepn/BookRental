@@ -1,9 +1,7 @@
-# BookRental
-A web application for student book rentals.Students can rent a book for one month without any charge. If they desire to keep the book beyond the initial month, a fee is charged determined by the book's page count divided by 100.
-
 # Book Rental System
 
 This project is a Django-based book rental system that integrates with the Open Library API to fetch book data. The project consists of two main apps: `adminapp` and `rental`.
+Students can rent a book for one month without any charge. If they desire to keep the book beyond the initial month, a fee is charged determined by the book's page count divided by 100.
 
 ## Software Requirements
 
